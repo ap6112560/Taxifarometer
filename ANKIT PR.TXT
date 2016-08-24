@@ -1,0 +1,17 @@
+                    $$ Welcome to Taxi Management  System $$                   
+              $$______By-Ankit Prasad & Sumit Mukherjee_______$$                   
+                $$______www.computersciencearticle.in_______$$                   
+ankitprasad_kdh@yahoo.com
+Ankit Prasad
+Your confirmation code:101869
+Arriving Date:5-2-2013
+Arriving Time:5:30pm
+No.of passengers:18
+No. of taxis booked:4
+Arrival point:barrackpore
+Destination point:esplanade
+Distance:28kms
+fare:RS.1011
+25% discount on fares,after 15 passengers
+You can get your ticket from the nearest taxi-stand ticket counter and pay your amount there
+for ticket cancellation or any other enquiry please call 63636363
